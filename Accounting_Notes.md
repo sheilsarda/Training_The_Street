@@ -1,4 +1,4 @@
-# 1 Introduction
+# 1 INTRODUCTION
 ## 1.1 The Purpose of Financial Accounting
 
 - The U.S. Congress passed a law in 2002, known as the Sarbanes-Oxley Act (or “SOX” for short), that requires the Chief Executive Officer and the Chief Financial Officer to certify the firm's Financial Statements
@@ -55,4 +55,13 @@
 - Financing cash flows – to and from lenders and investors
 
 *We point out the “dates,” namely the fact that the Balance Sheet is reported “as of” a particular point in time and the Income Statement and the Statement of Cash Flows are reported “for a period of time.” The reasons are because the Balance Sheet is a cumulative statement (a summation of events at a particular point in time), whereas the other two statements contain results over a reporting period, either one year or quarter. Also, below, we expand the Statement of Cash Flows to give some additional detail.*
+
+## 1.5 Closing the Books
+
+- The purpose of the closing entry is to re-set the balances in the revenue and expense accounts to zero so that they can accumulate the next period’s revenues and expenses
+- Revenues and expenses hold their account balances temporarily-- they are called temporary accounts which are closed at the end of each accounting period
+
+# 2 ADDITIONAL TERMINOLOGY, CONCEPTS, AND METHODOLOGY
+
+## 2.1 The Accounting Cycle
 
