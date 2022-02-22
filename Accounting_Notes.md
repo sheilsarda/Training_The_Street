@@ -74,5 +74,5 @@ Public firms in the U.S. must report their financial results quarterly. This mea
 
 ```mermaid
 flowchart TB
-    DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />")
+    DIR(![](https://iconscout.com/ms-icon-310x310.png))
 ```
