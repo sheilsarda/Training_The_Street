@@ -75,13 +75,4 @@ Public firms in the U.S. must report their financial results quarterly. This mea
 ```mermaid
 flowchart TB
     A(Firm issues $100 in stock for cash) --> B(Firm borrows $10 from the bank by issuing a long term note)
-    B --> C(Firm buys PP&E for $40 by paying $15 in cash and issuing a long term note for the balance)
-    C --> D(Firm buys inventory for $20 on credit)
-    D --> E(Firm sells $15 of inventory for $28 on credit)
-    E --> F(Firm collects half of the receivables booked)
-    F --> G(Firm pays $10 to suppliers of inventory)
-    G --> H(Firm books wages payable for $3)
-    H --> I(Firm records $2 of depreciation expense on PP&E)
-    I --> J(Firm records interest payable on notes for $3)
-    J --> K(Firm records taxes payable of $2 (tax rate is 40%; pre-tax income of $5))
 ```
