@@ -83,5 +83,5 @@ flowchart TB
     G --> H(Firm books wages payable for $3)
     H --> I(Firm records $2 of depreciation expense on PP&E)
     I --> J(Firm records interest payable on notes for $3)
-    J --> K(Firm records taxes payable of $2: tax rate is 40%; pre-tax income of $5)
+    J --> K(Firm records taxes payable of $2 since tax rate is 40% and pre-tax income is $5)
 ```
