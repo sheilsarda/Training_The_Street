@@ -73,9 +73,6 @@ Public firms in the U.S. must report their financial results quarterly. This mea
 1. The disclosure of accounting events. Firms must generate a set of Financial Statements, along with the required note disclosures.
 
 ```mermaid
-flowchart LR
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+flowchart TB
+    DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />")
 ```
