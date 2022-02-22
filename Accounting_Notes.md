@@ -75,4 +75,5 @@ Public firms in the U.S. must report their financial results quarterly. This mea
 ```mermaid
 flowchart TB
     A(Firm issues $100 in stock for cash) --> B(Firm borrows $10 from the bank by issuing a long term note)
+    B --> C(Firm buys PP&E for $40 by paying $15 in cash and issuing a long term note for the balance)
 ```
