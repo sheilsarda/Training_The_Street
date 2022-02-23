@@ -89,3 +89,19 @@ flowchart TB
     J -.-> C
     J -.-> B
 ```
+
+## 2.2 Capitalize vs Expense
+
+1. Capitalize means that an asset increases
+    1. When the pencil sharpener is capitalized, one asset is replaced by another (office equipment for cash).
+    1. Notice that when the pencil sharpener is capitalized (the first instance above) the net effect on the firm is zero. The firm’s equation (Assets = Liabilities + Owners’ Equity) is unchanged. When the pencil sharpener is expensed, the firm “shrinks,” as both sides of the equation are reduced by $10.
+1. Expense means that Owners’ Equity decreases
+    1. When the pencil sharpener is expensed, both Assets and Owners’ Equity are decreased. The Owners’ Equity account is “Office Expense.” By way of semantics, we say that the effect of the expense is a reduction in Owners’ Equity, or we say that the expense is charged against the owners.
+    1. If the pencil sharpener is capitalized, it will be expensed later, over time, in a systematic way, via the process of depreciation.
+
+In both of the above instances, cash is reduced by $10. However, in the first instance, an asset account is increased to offset the decrease in cash. In the second instance, Owners’ Equity is decreased to offset the decrease in cash.
+
+## 2.3 Gains and Losses vs Revenues and Expenses
+
+
+
