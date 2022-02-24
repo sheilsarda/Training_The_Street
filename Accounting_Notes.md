@@ -179,6 +179,27 @@ Cash Flow Statement Impacts
 
 ## 3.4 Institutional and Theoretical Background
 
+### SEC
+
+#### Origin of the SEC
+
+1. Overall, the purpose of the SEC is to ensure that full and fair disclosures are made to all investors before initial offerings and then afterwards in the secondary markets.
+1. The SEC’s authority was granted by the U.S. Congress. The stock market “crash” of 1929 prompted the U.S. Congress (in 1933 and 1934) to institute changes that would hopefully reduce the likelihood of a repeat crash. 1. Congress passed the Securities Act in 1933 and the Securities Exchange Act in 1934. The Securities Act of 1933 regulates IPOs of securities— both stocks and bonds. 
+1. The 1934 Securities Exchange Act regulates the subsequent trading of securities. It also created the SEC—the monitor that enforces the 1933 Act.
+
+#### Filings
+
+1. Form 10-K (annual filing, which includes the basic Financial Statements and notes plus other non-financial information)
+    1. 10-Ks are required filings for all publicly traded firms in the U.S. 
+    1. Firms may also elect to prepare another report called an Annual Report which is not required by the SEC. Annual Reports can be found in the “Investor Relations” section of a firm’s website. 
+    1. The difference between an Annual Report and a 10-K is sometimes negligible. However, Annual Reports are often prepared for a wider array of users such as customers, potential employees and the mainstream press. 
+1. Form 10-Q (quarterly filing of financial and non-financial information)
+1. Form 8-K (filing after a significant event occurs, such as changes in directors, officers, or accountants)
+1. Proxy (request for voting rights to be exercised at the annual shareholders’ meetings) 
+    1. Generally, shareholders have the right to vote for directors of the firm and on other important matters, which are described in the proxy. Also included in the proxy is information on executive compensation.
+    1. The technical form number assigned by the SEC to Proxies are Definitive 14-As or “Def 14-A” for short. 1. Other important information that you can find in Proxies include who the firm considers to be its peers (or firms with operations comparable to their operations). This type of insight is extremely helpful when analyzing a firm.
+
+
 
 
 
