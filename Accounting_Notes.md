@@ -352,7 +352,7 @@ Maintaining the proper amount of inventory is a dilemma usually covered in an �
 
 Financial accountants’ main concern is the valuation of Inventory for financial reporting. Proper valuation is important, not only for valuing the asset (the Inventory), but also for valuing the expense (the cost of the Inventory sold, or Cost of Goods Sold). 
 
-Manufacturers have three types of inventory:
+### Manufacturers have three types of inventory
 
 ```mermaid
 flowchart LR
@@ -379,6 +379,34 @@ To capitalize depreciation, Inventory is increased for the amount of depreciatio
 
 For disclosure purposes, if the amounts of each type of Inventory (DM, WIP, and FG) are material, manufacturers must show each one separately, either on the face of the Balance Sheet or in the note disclosures. Regardless of where disclosed, the information can indicate whether the firm is experiencing difficulties. A buildup of Inventory early in the production process may signal production problems, and a buildup of Finished Goods could signal weak demand. For example, below are two firms with the same total Inventory but different Inventory allocations.
 
+### Measuring Inventory Costs when Prices Change
 
+1. If the inventory items are particularly “special,” then they will be accounted for using the Specific Identification Method. 
+    1. In this method, the firm knows precisely which of the two items it is selling and can assign the appropriate value to Cost of Goods Sold. 
+    1. If it sells the first item, Cost of Goods Sold is $10. If it sells the second item, Cost of Goods Sold is $12.
+    1. Specific Identification is used for large, expensive, or “big ticket” items.
+1. LIFO (Last-In-First-Out)
+    1. LIFO stands for Last-In-First-Out, meaning the cost of the second item (“last one in”) is assigned to the product that is sold. 
+    1. Thus, under LIFO, the firm will assign $12 to Cost of Goods Sold and $10 to Inventory. 
+    1. Notice that if prices rise, LIFO gives the lowest Net Income, and FIFO gives the highest Net Income. This is because LIFO has the highest Cost of Goods Sold ($12). The higher the Cost of Goods Sold, the lower Net Income will be. 
+1. FIFO (First-In-First-Out) 
+    1. FIFO (First-In-First-Out) means that the cost of the first item in Inventory is assigned to the product that is sold. 
+    1. Thus, under FIFO, the firm assigns $10 to Cost of Goods Sold and $12 to Inventory.
+1. Average Cost
+    1. For the average, we take a weighted average of the two prices. Here, the weights are “1” on both units, since the firm has only one unit at each price. So, the average is simply $11, or (10 + 12) / 2.
+    1. Average Cost will give a result between the extremes of LIFO and FIFO.
+
+### FIFO vs LIFO
+
+- Since LIFO gives the lowest Net Income when prices are rising (that is, during inflationary periods), and FIFO gives the highest, one might think that firms would want to use FIFO to measure Cost of Goods Sold in order to have high earnings. 
+- However, LIFO is allowed on the tax return in the U.S. Therefore, LIFO is attractive for the tax return because it gives the largest deduction ($12, rather than $11 or $10). 
+- If firms have large deductions, they have to pay less to the government in taxes. 
+- By law, firms that want to use LIFO for taxes must also use LIFO on the Income Statement. For this reason, we often see LIFO being used in inflationary periods (because it reduces taxes), even though it also reduces Net Income.
+
+### Lower of Cost or Market
+
+At the end of the year, after the Inventory has been valued at cost, it may have to be "written down." Depending on the costing method used (LIFO, for example), the Inventory must be compared to "market," or what it would cost to replace the Inventory at current prices. If the market value is below cost, then the Inventory is written down. In this way, inventory is carried on the books at the lower of cost or market. This is another manifestation of conservatism. Such inventory write-downs are often due to product obsolescence. For instance, in the technology sector, new computer processors may enter the market, diminishing the market value of older processors below their cost.
+
+### 🔑  Beginning Inventory + Purchases - Cost of Goods Sold = Ending Inventory 
 
 
