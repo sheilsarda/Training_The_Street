@@ -300,7 +300,22 @@ Firms are required to give two EPS measures, so-called “Basic” and “Dilute
 |--|--|
 | Basic EPS measures the earnings attributable to each existing shareholder | Diluted EPS measures the earnings attributable not only to existing shareholders but also to those who could become shareholders by exercising their rights to do so. |
 | ![](acct_imgs/basic_eps.png) | ![](acct_imgs/diluted_eps.png) | 
+| | One of the main adjustments to the denominator for Diluted EPS is for stock options. People who hold stock options have the right to purchase shares of stock at a predetermined price, called the exercise price or the strike price. |
+| | Diluted EPS is lower than Basic EPS because Diluted EPS includes in the denominator the effects of the additional shares that could be issued from the exercise of the options. |
+| | Another adjustment to the denominator is for convertible debt. Convertible debt is a type of debt that could be converted to shares of stock. If the debt is converted to stock, then more shares would be added to the denominator, further diluting EPS. |
 | | |
 
+# 4 Select Working Capital Accounts
+
+## 4.1 Cash
+
+1. Working Capital
+    - Working capital includes all of a firm's current assets and current liabilities.
+    - Another variation of working capital is the “current ratio,” which is a relative measure, namely current assets divided by current liabilities.
+1. Cash 
+    - The valuation of cash in a firm's reporting currency is straightforward. (The reporting currency is the currency used in the firm’s financial statements that are filed with the regulatory authorities, such as the SEC. It is the currency of the “home country.”) 
+    - Sometimes cash is restricted for a particular use, such as for expansion of a factory. In this case, the restricted cash is not classified as cash because it is not immediately "spendable." Rather, restricted cash is classified as an "other asset" or investment and is therefore not included in total cash and cash equivalents on the balance sheet.
+
+## 4.2 Accounts Receivable
 
 
