@@ -289,8 +289,18 @@ Example of Conservatism:
 
 ## 3.10 Earnings Per Share: Basic Versus Diluted
 
+EPS captures the earnings attributable to each shareholder.
 
+- EPS is one of the major measures of a firm’s success. 
+- The announced EPS is benchmarked against prior EPS for the firm and against the EPS of competitor firms.
 
+Firms are required to give two EPS measures, so-called “Basic” and “Diluted.” 
+
+| Basic EPS | Diluted EPS |
+|--|--|
+| Basic EPS measures the earnings attributable to each existing shareholder | Diluted EPS measures the earnings attributable not only to existing shareholders but also to those who could become shareholders by exercising their rights to do so. |
+| ![](acct_imgs/basic_eps) | ![](acct_imgs/diluted_eps) | 
+| | |
 
 
 
