@@ -152,3 +152,35 @@ Cash Flow Statement Impacts
     1. Finally, during the decline phase, the firm’s CFO can turn negative as the firm is unable to sustain healthy operations.
     1. Firms may have to resort to selling assets to raise cash. In this case, CFI can become positive. Positive CFI means that the firm is liquidating assets to raise cash.
 
+## 3.2 Predicting Cash Flows
+
+- Future Financial Statements are called *pro forma statements*, or forecasted statements. 
+- Pro forma means for the sake of form, or ”as if”. 
+- One of the primary purposes of pro forma statements is to try to determine the firm’s future cash flows. 
+- Most decisions concerning firms (for example, whether to buy a firm’s stock or to lend money to a firm) require an estimate of the firm’s future cash flows and sustainable cash generating ability.
+
+## 3.3 Debt vs Equity
+
+- Debt
+    - Equity financing is more expensive than debt financing. 
+    - Lenders can use various legal means to protect their claims, such as requiring collateral or limiting the use of the borrowed money. 
+    - Such protections reduce lenders' risk, and when risk is lower, the "cost of capital" (the interest rate on the debt) is typically lower.
+    - Debt is cheaper for another reason. Governments often subsidize debt financing by allowing tax deductions for interest payments. Therefore, debt has a tax advantage that makes it relatively cheaper than equity.
+    - The use of debt has another advantage. It allows the firm to ⏴leverage⏵ earnings to the benefit of shareholders.
+- Equity
+    - “Stockholders” or “shareholders” are ways of describing the owners of equity. That is, the equity owner has purchased the firm’s stock (shares of ownership in the firm).
+    - Stockholders do not have the same ability to protect their claims through collateral. Since stockholders assume more risk, they demand a higher return on their investment.
+    - Dividends are usually not deductible. Deductions reduce the amount of taxable income and therefore the amount of money that firms would have to pay the government for taxes. 
+- Convertibles
+    - A mix between debt and equity is called a “convertible” or “convertible debt.” 
+    - The terms of these hybrid investment vehicles vary but typically take the form of debt that are convertible into shares of stock. 
+    - In other words, the debtholders earn a fixed return, but they could convert to stockholders and share in the extra returns. 
+    - Once the conversion to shares of stock has been made, the investor has lost this debtholder status and is now a stockholder. 
+
+## 3.4 Institutional and Theoretical Background
+
+
+
+
+
+
