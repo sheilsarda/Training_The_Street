@@ -266,13 +266,13 @@ Owners’ Equity is listed in the order of permanence. By permanence, we mean th
 1. Stock
 1. Retained Earnings
 
-### 3.7 Users, Qualitative Characteristics, and the Conservatism Constraint
+## 3.7 Users, Qualitative Characteristics, and the Conservatism Constraint
 
 The intended users of financial reports are any interested parties with a reasonable understanding of business and with a willingness to study the reports with reasonable diligence. The interested parties include investors, lenders, labor unions, the government, and competitors.
 
 The disclosures made in the financial reports should be relevant and possess "representational faithfulness." 
 
-### 3.8 Conservatism in Financial Accounting
+## 3.8 Conservatism in Financial Accounting
 
 The construct of conservatism is pervasive in many accounting regimes, including that of the U.S. Conservatism shows the worst-case scenario in order to alert lenders and investors about the downside of their investments.
 
@@ -288,6 +288,7 @@ Example of Conservatism:
 1. Fair value accounting is an accounting system that is “bolted on” to the accrual system. The fair value system requires recognition of unrealized losses and unrealized gains, but only for certain select assets and liabilities.
 
 ## 3.10 Earnings Per Share: Basic Versus Diluted
+
 
 
 
