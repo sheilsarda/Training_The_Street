@@ -299,7 +299,7 @@ Firms are required to give two EPS measures, so-called “Basic” and “Dilute
 | Basic EPS | Diluted EPS |
 |--|--|
 | Basic EPS measures the earnings attributable to each existing shareholder | Diluted EPS measures the earnings attributable not only to existing shareholders but also to those who could become shareholders by exercising their rights to do so. |
-| ![](acct_imgs/basic_eps) | ![](acct_imgs/diluted_eps) | 
+| ![](acct_imgs/basic_eps.png) | ![](acct_imgs/diluted_eps.png) | 
 | | |
 
 
