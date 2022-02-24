@@ -268,6 +268,11 @@ Owners’ Equity is listed in the order of permanence. By permanence, we mean th
 
 ### 3.7 Users, Qualitative Characteristics, and the Conservatism Constraint
 
+The intended users of financial reports are any interested parties with a reasonable understanding of business and with a willingness to study the reports with reasonable diligence. The interested parties include investors, lenders, labor unions, the government, and competitors.
+
+
+The disclosures made in the financial reports should be relevant and possess "representational faithfulness." 
+
 
 
 
