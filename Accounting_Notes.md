@@ -103,5 +103,32 @@ In both of the above instances, cash is reduced by $10. However, in the first in
 
 ## 2.3 Gains and Losses vs Revenues and Expenses
 
+Revenues vs Gains: when the firm’s central activity is selling inventory, the sale of the equipment results in a gain. 
 
+- Intuitively, the gain is the difference between the fair value of the equipment ($1,000) and its book value listed on the Balance Sheet ($800).
+- When the firm’s central activity is selling equipment, then the equipment would be classified as ”inventory,” and the firm would report revenue of $1,000 and an expense (Cost of Goods Sold) of $800 in the transaction. Notice that the result of the two different treatments is identical. 
+- Assets increase by $200 (net) and Owners’ Equity increases by $200 (net). 
+- The difference is in the level of detail. Peripheral activities are reported on a “net” basis; central activities are reported as two numbers, or on a “gross” basis (Revenues less COGS).
 
+ ## 2.4 Statutory vs Effective Tax Rates
+
+ 1. Effective Tax Rate = Tax Expense / Pre-Tax Income
+ 1. When a firm uses a mixture of statutory rates, the Effective Tax Rate can differ from the local Statutory Tax Rate
+ 
+ ## 2.5 Alternative Methods for Data Capture
+
+ 1. Debits are on the left, and credits are indented, thus on the right. In our context, debit simply means left, and Credit means right. 
+ 1. Debit does not mean “bad” or “negative” and credit does not mean “good” or “positive.”
+1. There are no negative numbers with conventional journal entries.
+1. Assets increase with debits and decrease with credits.
+1. Liabilities and Owners’ Equity do the opposite. They increase with credits and decrease with debits.
+1. Revenues, since they increase Owners’ Equity, are credits.
+1. Expenses, since they decrease Owners’ Equity, are debits.
+
+To add more structure to the instructions for the conventional journal entries, let’s outline some steps.
+
+1. Identify the individual accounts involved in the transaction or event.
+1. Classify the accounts in step 1 as Assets, Liabilities, or Owners’ Equity.
+1. Determine whether the accounts are increasing or decreasing. (Remember that Revenues will be a credit because they increase Owners’ Equity, and expenses will be a debit because expenses decrease Owners’ Equity.)
+
+# 3 PRACTICAL LOOK AT THEORETICAL ISSUES
