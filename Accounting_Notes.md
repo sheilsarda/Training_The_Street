@@ -199,6 +199,80 @@ Cash Flow Statement Impacts
     1. Generally, shareholders have the right to vote for directors of the firm and on other important matters, which are described in the proxy. Also included in the proxy is information on executive compensation.
     1. The technical form number assigned by the SEC to Proxies are Definitive 14-As or “Def 14-A” for short. 1. Other important information that you can find in Proxies include who the firm considers to be its peers (or firms with operations comparable to their operations). This type of insight is extremely helpful when analyzing a firm.
 
+## 3.5 Agency Theory: The Need for Contracts and Regulatory Oversight
+
+1. Cures for the problems of adverse selection and moral hazard include monitoring and incentive contracting.
+1. Managers are answerable to creditors, and if they exploit creditors, their firm’s credit rating will fall. 
+1. Further, just to be sure that they are protected, creditors will place restrictions on managers through certain provisions in their loans.
+1. Some of the more well-known credit rating services in the world are Moodys, Standard & Poor’s, Fitch and A.M. Best. These rating services are paid to analyze the riskiness of a firm’s debt.
+
+## 3.6 Accounting Principles
+
+The principles established by the accounting profession include the Revenue Recognition Principle (or just Revenue Principle), the Expense Recognition Principle (commonly referred to as the "Matching Principle," which we will also often use), the Cost Principle, and the Full Disclosure Principle.
+
+### Revenue Principle
+
+- According to the Revenue Principle, a firm may recognize revenue after it has satisfied the performance obligation(s) identified in a contract with a customer. 
+- Performance obligations are the goods or services promised to the customer in a contract. 
+- For accounting purposes, such contracts do not have to be formal, signed documents, but can be implied through normal business practices. 
+- For example, even buying groceries at the store represents an implied contract between the store, which has the obligation to provide groceries, in return for payment by the customer.
+- An implication of the Revenue Principle is that certain non-cash transactions with customers can result in revenue being recognized, and conversely, certain cash transactions do not necessarily result in the recognition of revenue at the time cash is received. 
+- *The critical event is the seller's satisfaction of a performance obligation. Payment can come after, or before, satisfaction of the performance obligation.*
+- For instance, a consulting firm may receive an up-front payment from a client for a consulting project. The firm records the cash increase, but the firm does not yet have revenue because it has not yet performed the service.
+- As another example, consider a retailer who issues a gift card. The retailer may receive cash payment for the gift card, but it may not book revenue until the card is redeemed (used) by the holder of the gift card.
+
+### Expense Recognition Principle
+
+- The Expense Recognition Principle (which, as indicated above, is commonly referred to as the Matching Principle) says to book the expense when the benefit is received, regardless of the timing of the cash flow. 
+- *The expense is to be ”matched” with the revenue (the benefit), hence the name Matching Principle.*
+- Therefore, the booking of revenue or expense does not necessarily correspond to cash flows. 
+- The cash flow may occur either before or after the booking of the revenue or expense. Below, we describe several variations of revenues and expenses.
+
+### Cost Principle
+
+- The Cost Principle pertains mainly to the measurement of asset purchases. 
+- Assets are recorded on the Balance Sheet at their cost, which means their cash value, or cash equivalent value. (Cash equivalent means the present value of future cash flows. 
+- We will discuss present value briefly in an upcoming chapter.) The Cost Principle requires inclusion of all cash or cash equivalent outlays to bring the asset to its place of intended use by the firm. 
+- Thus, the cost of a machine would include not only the invoice price, but also shipping, insurance, and installation.
+
+### Full Disclosure Principle
+
+- The Full Disclosure Principle pertains both to what is disclosed and how it is disclosed. 
+- Firms must disclose all “relevant” financial information. 
+- Relevant information is all information that would make a difference in the decisions of a “reasonable” lender or investor. 
+- Another manifestation of the Full Disclosure Principle is the classified presentation of the Financial Statements.
+
+Under U.S. GAAP, assets are listed in the Balance Sheet in the order of liquidity (“nearness” to cash or use). Typically the order will be:
+
+1. Cash
+1. Accounts Receivable
+1. Marketable Investments (investments in the stock and bonds of other companies)
+1. Inventory
+1. Prepaid Rent and Insurance
+1. Property, Plant and Equipment
+1. Intangible Assets (Patents, Goodwill, etc.)
+
+Liabilities are listed in the order of maturity, that is, when they have to be paid. Typically, the order will be:
+
+1. Accounts Payable
+1. Wages Payable
+1. Taxes Payable
+1. Short-Term Debt
+1. Long-Term Debt
+1. Bonds Payable (a type of Debt)
+
+Owners’ Equity is listed in the order of permanence. By permanence, we mean the relative expectation about returning capital to the owners. 
+
+1. Stock
+1. Retained Earnings
+
+### 3.7 Users, Qualitative Characteristics, and the Conservatism Constraint
+
+
+
+
+
+
 
 
 
