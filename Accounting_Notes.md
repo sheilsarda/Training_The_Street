@@ -355,8 +355,7 @@ Financial accountants’ main concern is the valuation of Inventory for financia
 Manufacturers have three types of inventory:
 
 ```mermaid
-flowchart TB
-
+flowchart LR
     A("Direct Materials (DM)") --> B("Work in Process (WIP)")
     B --> C("Finished Goods (FG)")
 ```
