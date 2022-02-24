@@ -326,5 +326,60 @@ When a firm sells to customers on credit, the firm is exposed to credit risk, or
 
 ## 4.3 Allowance for Doubtful Accounts
 
+### 🔑 Net Realizable Value = Accounts Receivable - Allowance for Doubtful Accounts
+
+## 4.4 Notes Receivable
+
+Some sales have long payment terms, allowing customers to pay several months after the transaction. Firms that have to wait 90 days or more to be paid often charge interest. Thus, they book a Note Receivable, rather an Account Receivable, because the former charges interest.
+
+### 🔑 Interest = Principal x Rate x Time where the principal is the amount owed
+
+## 4.5 Accounts Payable
+
+These are amounts owed to suppliers for inventory and other items. For every credit sale, there is an Account Payable. The seller books the Account Receivable and the buyer books the Account Payable. Sellers and buyers are called “counterparties” and their accounting treatments will be mirror images.
+
+## 4.6 Sales Discounts, Returns, and Allowances
+
+The three contra-revenue accounts (Sales Discount, Sales Returns, Sales Allowance) provide information about product quality and consumer behavior. We normally check to see if there is a growing percentage of Sales Returns, Discounts or Allowances over time.
+
+The seller may sometimes show ”Gross Sales” on the face of the Income Statement, with a separate listing of each contra-account. However, this is uncommon. Instead, usually we find “Net Sales” on the face of the Income Statement, in which case the details about the contra-accounts will be in the notes.
+
+## 4.7 Inventories
+
+Inventories are items that are purchased (or manufactured) for resale.
+
+Maintaining the proper amount of inventory is a dilemma usually covered in an “Operations Management” course. Having the proper Inventory itself (types, styles, models, colors, etc.) is another dilemma, and this is a merchandising problem. Anticipating what customers will want to buy, when they will want to buy it, and what price they are willing to pay for it are all keys to a successful business.
+
+Financial accountants’ main concern is the valuation of Inventory for financial reporting. Proper valuation is important, not only for valuing the asset (the Inventory), but also for valuing the expense (the cost of the Inventory sold, or Cost of Goods Sold). 
+
+Manufacturers have three types of inventory:
+
+```mermaid
+flowchart TB
+
+    A(Direct Materials (DM)) --> B(Work in Process (WIP))
+    B --> C(Finished Goods (FG))
+```
+
+1. Direct Materials (DM)
+    1. DM is the raw material that goes into the product. It could be the leather, plastic, fabric, wires, string, etc. 
+    1. As DM is needed in production, it is physically transferred to Work in Process (WIP). 
+1. Work in Process (WIP)
+    1. In production, DM is combined with Direct Labor (DL) and overhead (OH). 
+    1. OH is also called “indirect manufacturing costs,” to distinguish from the direct manufacturing costs, which are DM and DL.
+    1. Overhead (OH) includes salaries, depreciation on the building and equipment, insurance, utilities, and other such costs that cannot be easily traced to the production of a specific product, but nonetheless are needed to manufacture the product.
+1. Finished Goods (FG)
+    1.  The completed product is transferred from Work in Process Inventory (WIP) to Finished Goods Inventory (FG). 
+    1. The dollar value of the completed product is called the Cost of Goods Manufactured (CGM). When finished goods are sold, they become Cost of Goods Sold.
+
+![](acct_imgs/inventory.png)
+
+Above, we show depreciation as a part of Overhead, which is a part of WIP Inventory. What this means is that depreciation on a building that is used in manufacturing is capitalized, rather than expensed.
+
+To capitalize depreciation, Inventory is increased for the amount of depreciation, as well as the contra- account, Accumulated Depreciation (A/D). This differs from what we are accustomed to seeing, which is namely a reduction of Owners’ Equity for Depreciation Expense. However, in a manufacturing environment, depreciation is first capitalized. After the above Inventory is completed (becomes Finished Goods) and then subsequently sold, it will become Cost of Goods Sold, which will include the depreciation that was capitalized. Thus, “capitalized depreciation” does become an expense, but not until the Inventory is sold.
+
+For disclosure purposes, if the amounts of each type of Inventory (DM, WIP, and FG) are material, manufacturers must show each one separately, either on the face of the Balance Sheet or in the note disclosures. Regardless of where disclosed, the information can indicate whether the firm is experiencing difficulties. A buildup of Inventory early in the production process may signal production problems, and a buildup of Finished Goods could signal weak demand. For example, below are two firms with the same total Inventory but different Inventory allocations.
+
+
 
 
