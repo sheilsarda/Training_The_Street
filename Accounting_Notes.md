@@ -305,7 +305,7 @@ Firms are required to give two EPS measures, so-called “Basic” and “Dilute
 | | Another adjustment to the denominator is for convertible debt. Convertible debt is a type of debt that could be converted to shares of stock. If the debt is converted to stock, then more shares would be added to the denominator, further diluting EPS. |
 | | |
 
-# 4 Select Working Capital Accounts
+# 4 WORKING CAPITAL ACCOUNTS
 
 ## 4.1 Cash
 
