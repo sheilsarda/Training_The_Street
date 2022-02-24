@@ -318,4 +318,13 @@ Firms are required to give two EPS measures, so-called “Basic” and “Dilute
 
 ## 4.2 Accounts Receivable
 
+Accounts Receivable are rights to receive future cash from a customer from a previous sale on credit.
+
+Other names for “Accounts Receivable” are receivables, trade receivables (where “trade” = customer) and trade debtors.
+
+When a firm sells to customers on credit, the firm is exposed to credit risk, or the risk of not being paid. Credit risk must be measured and recorded.
+
+## 4.3 Allowance for Doubtful Accounts
+
+
 
