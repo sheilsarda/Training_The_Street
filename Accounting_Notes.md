@@ -357,8 +357,8 @@ Manufacturers have three types of inventory:
 ```mermaid
 flowchart TB
 
-    A(Direct Materials (DM)) --> B(Work in Process (WIP))
-    B --> C(Finished Goods (FG))
+    A("Direct Materials (DM)") --> B("Work in Process (WIP)")
+    B --> C("Finished Goods (FG)")
 ```
 
 1. Direct Materials (DM)
