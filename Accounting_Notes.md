@@ -132,3 +132,23 @@ To add more structure to the instructions for the conventional journal entries, 
 1. Determine whether the accounts are increasing or decreasing. (Remember that Revenues will be a credit because they increase Owners’ Equity, and expenses will be a debit because expenses decrease Owners’ Equity.)
 
 # 3 PRACTICAL LOOK AT THEORETICAL ISSUES
+
+## 3.1 Life Cycle of the Firm and the NI/CF Profile
+
+![](acct_imgs/firm_lifecycle.png)
+
+Cash Flow Statement Impacts
+
+1. Intro Phase
+    1. When firms are just getting started, they usually have negative Net Income (a net loss) and negative CFO. This happens because it takes time (and money) to “set up shop,” identify a customer base, market to the customers, buy and deliver inventory, etc.
+    1. Additionally, the firm is investing in infrastructure (equipment and buildings, e.g.), so its CFI will be negative. This means that cash is “going out” of the firm into these long-lived assets.
+    1. If Net Income, CFO and CFI are all negative, the firm will definitely need outside sources of cash. Without cash, nothing happens. Thus, CFF will be positive. Cash will come from lenders and investors.
+1. Growth Phase
+    1. During the “growth phase,” CFO ceases being as negative and eventually turns positive. We say that the firm becomes “cash flow positive,” meaning that CFO becomes positive. 
+    1. CFI will likely remain negative as the firm continues to spend cash on various long-lived assets such as buildings and equipment. 
+    1. CFF often continues positive during the growth phase, since the firm still needs outside financing in order to fund its growing operations and investments in buildings, etc.
+1. Mature Phase: During the “mature” phase, CFO is generally positive. CFI slows down as the firm has fewer investment opportunities. Also in the mature phase, CFF often turns negative, as the firm starts to pay down debt and to return cash to investors in the form of share repurchases and dividends.
+1. Decline Phase
+    1. Finally, during the decline phase, the firm’s CFO can turn negative as the firm is unable to sustain healthy operations.
+    1. Firms may have to resort to selling assets to raise cash. In this case, CFI can become positive. Positive CFI means that the firm is liquidating assets to raise cash.
+
